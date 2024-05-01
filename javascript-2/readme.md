@@ -1,0 +1,1 @@
+# 2. You have been assigned a task to implement a theme toggle feature for a website. The website currently displays which mode it is in (either "Dark Mode" or "Light Mode") and has a toggle button. The challenge is to use DOM manipulation to toggle the theme between dark and light modes when the button is clicked.

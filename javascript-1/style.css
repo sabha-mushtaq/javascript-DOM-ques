@@ -1,0 +1,40 @@
+.main {
+height: 600px;
+width: 800px;
+margin: 6% 10% 10% 20%;
+border: solid black 3px;
+}
+h1 {
+
+    text-align: center;
+}
+#btns{
+height: 100px;
+width: 500px;
+
+margin: 50px 100px 10px 150px ;
+display: flex;
+justify-content: space-around;
+
+}
+
+button{
+height: 70%;
+width: 30%;
+
+
+}
+#frame{
+
+width: 100%;
+height: 385px;
+
+
+
+}
+img{
+
+
+    height: fit-content;
+    width: fit-content;
+}

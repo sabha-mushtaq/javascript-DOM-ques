@@ -1,0 +1,2 @@
+# 
+1. Your client needs a feature to upload a profile picture on their website. Your task is to create an "input type=file" element that allows users to select images. Once an image is uploaded, display a preview of the selected image below the file input. You are required to achieve this using JavaScript DOM manipulation.
