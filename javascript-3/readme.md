@@ -1,0 +1,1 @@
+# You are tasked with building a simple web counter that displays two buttons: "+" and "-". When the user clicks the "+" button, the counter should increment by one, and when the user clicks the "-" button, the counter should decrement by one. If the counter goes below zero, you must notify the user through an alert.
