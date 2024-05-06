@@ -1,0 +1,1 @@
+5. Your task is to implement an image toggle using JS DOM. Create a heading to display the current state of the image and a toggle button. When the button is clicked, if the image is hidden, make it visible, and update the message accordingly. If the image is visible, hide it, and update the message accordingly.
