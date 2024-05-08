@@ -1,0 +1,1 @@
+#  7. You are tasked to create an input field and a list of items. As the user types in the input field, dynamically filter the list to show only items that match the input. Making sure the list updates in real-time as the user types.
